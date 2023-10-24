@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hola 👋, soy Franco Leone</h1>
-<h3 align="center">Desarrollador frontend de Argentina</h3>
+<h3 align="center">Desarrollador Full Stack de Argentina</h3>
 
 
 ## 🌐 Socials:
